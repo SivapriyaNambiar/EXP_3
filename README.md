@@ -51,9 +51,7 @@ In C++, the assignment operator forms the backbone of many algorithms and comput
 ## Code
 
 ~~~
-/*Sundaravadivelan Karthikeyan
-23070123136
-ENTC B3 
+/* 
 EXPERIMENT 3- TYPES OF OPERATORS(ARITHEMATIC, LOGICAL, COMPARSION)
 */
 
